@@ -1,4 +1,4 @@
-package kr.springboot.gofdesignpatterns.singleton.ex6;
+package kr.springboot.gofdesignpatterns._01_singleton.ex6;
 
 /**
  * 권장 방법임.

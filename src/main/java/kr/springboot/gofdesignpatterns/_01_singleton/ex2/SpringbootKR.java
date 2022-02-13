@@ -1,4 +1,4 @@
-package kr.springboot.gofdesignpatterns.singleton.ex2;
+package kr.springboot.gofdesignpatterns._01_singleton.ex2;
 
 public class SpringbootKR {
 

@@ -1,4 +1,4 @@
-package kr.springboot.gofdesignpatterns.singleton.ex7;
+package kr.springboot.gofdesignpatterns._01_singleton.ex7;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
