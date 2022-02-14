@@ -1,4 +1,4 @@
-package kr.springboot.gofdesignpatterns._02_factorymethod.after;
+package kr.springboot.gofdesignpatterns._02_factory_method.after;
 
 public class SpringBootBlogFactory implements BlogFactory{
 

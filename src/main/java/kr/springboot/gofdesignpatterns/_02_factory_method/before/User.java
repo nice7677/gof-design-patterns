@@ -1,4 +1,4 @@
-package kr.springboot.gofdesignpatterns._02_factorymethod.before;
+package kr.springboot.gofdesignpatterns._02_factory_method.before;
 
 public class User {
 

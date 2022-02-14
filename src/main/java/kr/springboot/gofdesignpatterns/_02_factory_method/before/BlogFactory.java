@@ -1,4 +1,4 @@
-package kr.springboot.gofdesignpatterns._02_factorymethod.before;
+package kr.springboot.gofdesignpatterns._02_factory_method.before;
 
 /**
  * 확장에는 열려있고 변경에는 닫혀있어야 한다. 는 객체지향의 원칙
