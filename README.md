@@ -18,3 +18,5 @@
 
 #### Builder
 
+![Builder](/document/images/builder-class-diagram.png)
+
