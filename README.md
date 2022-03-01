@@ -46,17 +46,23 @@
 
 ### Prototype
 
+![Prototype](https://refactoring.guru/images/patterns/content/prototype/prototype-2x.png)
+
+[Prototype](https://refactoring.guru/design-patterns/prototype)
+
+### Adapter
+
 ![adapter-pattern-image](https://refactoring.guru/images/patterns/content/adapter/adapter-en-2x.png?id=e0ab0f6103b0b7b0648a)
-
-#### Adapter
-
-![adapter](https://refactoring.guru/images/patterns/content/prototype/prototype-2x.png)
-
-[Adapter](https://refactoring.guru/design-patterns/prototype)
 
 #### class diagram
 
 ![Adapter](/document/images/adapter-class-diagram.png)
 
+### Bridge
 
+![Bridge](https://refactoring.guru/images/patterns/content/bridge/bridge-2x.png)
+
+#### class diagram
+
+![Adapter](/document/images/bridge-class-diagram.png)
 
