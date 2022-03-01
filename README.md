@@ -54,6 +54,8 @@
 
 ![adapter-pattern-image](https://refactoring.guru/images/patterns/content/adapter/adapter-en-2x.png?id=e0ab0f6103b0b7b0648a)
 
+[Adapter](https://refactoring.guru/design-patterns/adapter)
+
 #### class diagram
 
 ![Adapter](/document/images/adapter-class-diagram.png)
@@ -62,7 +64,22 @@
 
 ![Bridge](https://refactoring.guru/images/patterns/content/bridge/bridge-2x.png)
 
+[Bridge](https://refactoring.guru/design-patterns/bridge)
+
+
 #### class diagram
 
 ![Adapter](/document/images/bridge-class-diagram.png)
+
+### Composite
+
+![Composite](https://refactoring.guru/images/patterns/content/composite/composite-2x.png)
+
+[Composite](https://refactoring.guru/design-patterns/composite)
+
+
+#### class diagram
+
+![Composite](/document/images/composite-class-diagram.png)
+
 
